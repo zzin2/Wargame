@@ -14,4 +14,5 @@ Root-me
 * [Format string bug basic 1](https://github.com/zzin2/Wargame/tree/main/Root-me/ELF_x86/Format_string_bug_basic1)
 * Format string bug basic 2
 * [Race condition](https://github.com/zzin2/Wargame/tree/main/Root-me/ELF_x86/Race_condition)
-
+* [Use after free](https://github.com/zzin2/Wargame/tree/main/Root-me/ELF_x86/Use_after_free_basic)
+* [BSS buffer overflow](https://github.com/zzin2/Wargame/tree/main/Root-me/ELF_x86/BSS_buffer_overflow)
